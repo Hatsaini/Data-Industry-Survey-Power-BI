@@ -58,5 +58,6 @@ This project focuses on **clarity, consistency, and insight**, avoiding overused
 ---
 
 ## Preview
-*(Insert dashboard screenshot here)*
+*<img width="1459" height="822" alt="image" src="https://github.com/user-attachments/assets/5d6f32cd-972b-4c3b-8a91-201f9531e263" />
+*
 
